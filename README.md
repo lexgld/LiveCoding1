@@ -1,7 +1,5 @@
 # Min Max Difference
 
-**LaunchCode Education Live Coding Exercise**
-
 In this problem you will be given an array/list of integers. You need to find the largest value and the smallest value in the array. Finally you need to return the difference (largest value - smallest value) of the two values. Example:
 
 the_array = [15, 22, 84, 14, 88, 23]
