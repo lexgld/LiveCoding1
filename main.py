@@ -13,3 +13,12 @@ def min_max():
   print ("The difference is " + str(difference)) 
   
 min_max()
+
+"""
+A more concise solution:
+the_array = [15, 22, 84, 14, 88, 23]  
+print ("The highest value is " + str(max(the_array)))    
+print ("The smallest value is " + str(min(the_array))) 
+print ("The difference is " + str(max(the_array) - min(the_array))) 
+  
+"""
